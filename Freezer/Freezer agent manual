@@ -1,0 +1,17 @@
+#Freezer Agent
+
+Here is the full documentation of Freezer Agent installation and how to use it to download and upload files. We will go through every option that I have made
+available.
+
+
+NOTE!!!!!
+  If you must need to authenticate I need to give the advice to contanct your system administrator to give you the authenticcation files neede for continuing the
+  operation if you must. and if you don't need to authenticate you can just jump into it.
+  
+Note: If you neede to authenticate use the freezer-agent authentication method.
+
+Option NO.1
+  Dwonloads and installs the freezer agent that make connection to the freezer-api installed in the server.
+
+Option NO.2
+  If you have Openstack object sotre (Swift) installed in your server you can make some of your backups into that Container that you can access.
